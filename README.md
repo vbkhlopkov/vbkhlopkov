@@ -1,6 +1,6 @@
 ## Hi there! My name is Vadim Khlopkov 👋 
 
-Прошел курс «Аналитик данных» в Яндекс Практикуме. Нахожусь в поиске работы аналитиком данных на позиции стажер или Junior.
+Data Analyst
 
 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
